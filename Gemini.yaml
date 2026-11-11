@@ -38,7 +38,7 @@ payload:
   - DOMAIN-SUFFIX,aicode.googleapis.com
   - DOMAIN-SUFFIX,aida.googleapis.com
   - DOMAIN-SUFFIX,aisandbox-pa.googleapis.com
-  - DOMAIN-SUFFIX,antigravity-unleash.goog
+  - DOMAIN-SUFFIX,antigravity-unleash.google
   - DOMAIN-SUFFIX,flow.google
   - DOMAIN-SUFFIX,flow.google.com
   - DOMAIN-SUFFIX,geller-pa.googleapis.com
